@@ -5,6 +5,7 @@
 *.abc
 *.bleep
 *.ccc
+*.conti
 *.crinf
 *.crjoker
 *.cry
